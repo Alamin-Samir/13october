@@ -1,0 +1,1 @@
+document.write("helli iam js file");
